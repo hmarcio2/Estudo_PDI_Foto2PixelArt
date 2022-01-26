@@ -11,14 +11,14 @@ Projeto final da disciplina Processamento Digital de Imagens
         <img align="center" alt="HTML" height="300" width="400" src="https://github.com/hmarcio2/Estudo_PDI_Foto2PixelArt/blob/main/img/dani%20pixelado.jpg">
      </div>
   </div>
-  
+  <br>
   <div>
     <div align="center" height="700" width="450">
         <img align="center" alt="HTML" height="300" width="400" src="https://github.com/hmarcio2/Estudo_PDI_Foto2PixelArt/blob/main/img/astronauta.jpg">
         <img align="center" alt="HTML" height="300" width="400" src="https://github.com/hmarcio2/Estudo_PDI_Foto2PixelArt/blob/main/img/astronauta%20pixelado.jpg">
      </div>
   </div>
-  
+  <br>
   <div>
     <div align="center" height="700" width="450">
         <img align="center" alt="HTML" height="300" width="400" src="https://github.com/hmarcio2/Estudo_PDI_Foto2PixelArt/blob/main/img/cerejeira%20real.jpg">
